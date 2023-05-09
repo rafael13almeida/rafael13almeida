@@ -1,10 +1,10 @@
 ### Prazer ! Rafael Almeida
 
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas, 4º Período.
-- 📚 Atualmente estudando PHP, SQL, HTML, CSS e Javascript.
-- 🏢 Atualmente estagiário de desenvolvimento na empresa Teknisa.
-- 👨‍👧 Pai da Olivia ❤️.
+- 💻 Cursando Análise e Desenvolvimento de Sistemas, 5º Período.
+- 📚 Atualmente estudando PHP, SQL, Javascripte Cypress.
+- 🏢 Analista de Teste.
+- 👨‍👧 Pai da Olivia e da Elena❤️.
 
 <div align="center">
   <a href="https://github.com/rafael13almeida">
