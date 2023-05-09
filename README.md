@@ -2,7 +2,7 @@
 
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas, 5º Período.
-- 📚 Atualmente estudando PHP, SQL, Javascripte Cypress.
+- 📚 Atualmente estudando PHP, SQL, Javascript e Cypress.
 - 🏢 Analista de Teste.
 - 👨‍👧 Pai da Olivia e da Elena❤️.
 
